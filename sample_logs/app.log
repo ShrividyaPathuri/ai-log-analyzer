@@ -1,0 +1,5 @@
+2026-02-20 12:00:00,001 INFO api-service - Started server on port 8080
+2026-02-20 12:00:03,090 ERROR api-service - NullPointerException at com.example.ApiHandler.handle(ApiHandler.java:42)
+2026-02-20 12:00:03,091 ERROR api-service - NullPointerException at com.example.ApiHandler.handle(ApiHandler.java:42)
+2026-02-20 12:00:06,000 ERROR api-service - TimeoutError while calling downstream inventory-service requestId=ab12cd34
+some unstructured line
